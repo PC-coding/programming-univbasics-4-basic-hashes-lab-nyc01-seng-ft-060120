@@ -4,7 +4,7 @@ def new_hash
 end
 
 def my_hash
-  hash = {1}
+  { name: "Partap"}
 end
 
 def pioneer
